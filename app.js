@@ -1,6 +1,6 @@
 const countdown = () => {
     //belirlediğimiz tarihten zamani aldik [milisaniye]
-    const countDate = new Date('Jan 11,2023 00:00:00').getTime();
+    const countDate = new Date('OCT 27,2023 00:00:00').getTime();
     //şimdiki zamanı alıyoruz
     const now = new Date().getTime();
     //birbirinden çıkarıp kalan sürenin milisaniyesini buluyoruz
